@@ -39,6 +39,8 @@ If you want to install the Magento 2, use like that:
 cd MYMAGENTO2
 ./shell
 rm index.php
+# Change the URL for the Frontend
+vi /usr/local/bin/install-magento2
 install-magento2
 ```
 
